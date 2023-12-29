@@ -1,13 +1,13 @@
-# 阿里云免费大模型百炼api接口使用方法 <img src="https://github.com/phpoh/aliyungpt/blob/picture/one.png?raw=true" width="15%"></img>
+# 阿里云免费大模型百炼api接口使用方法 <img src="https://github.com/phpoh/aliyungpt/blob/main/picture/one.png?raw=true" width="15%"></img>
 
 [English](./READMEEG.md) - 中文
 
 
-基于通义系列大模型和开源大模型的一站式大模型服务平台。
-免费开通地址：https://bailian.aliyun.com
+# 基于通义系列大模型和开源大模型的一站式大模型服务平台。
+## 免费开通地址：https://bailian.aliyun.com
 
-#使用演示：
-[![](https://github.com/phpoh/aliyungpt/blob/main/picture/yanshi.gif?raw=true)]
+# 使用演示：
+![](https://github.com/phpoh/aliyungpt/blob/main/picture/yanshi.gif?raw=true)
 
 ### 在线体验地址：
 - http://www.elonmusk.love
@@ -50,7 +50,7 @@ python3 main.py
 python main.py
 ```
 ## 运行演示：
-[![](https://github.com/phpoh/aliyungpt/picture/yunxing.gif?raw=true)]
+![](https://github.com/phpoh/aliyungpt/blob/main/picture/yunxing.gif)
 
 
 

@@ -7,7 +7,7 @@
 免费开通地址：https://bailian.aliyun.com
 
 #使用演示：
-[![](https://github.com/phpoh/aliyungpt/picture/yanshi.gif?raw=true)]
+[![](https://github.com/phpoh/aliyungpt/blob/main/picture/yanshi.gif?raw=true)]
 
 ### 在线体验地址：
 - http://www.elonmusk.love

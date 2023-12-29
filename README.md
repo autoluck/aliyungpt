@@ -1,4 +1,4 @@
-# 阿里云免费大模型百炼api接口使用方法 <img src="https://github.com/phpoh/aliyungpt/blob/main/picture/one.png?raw=true" width="15%"></img>
+# <img src="https://github.com/phpoh/aliyungpt/blob/main/picture/one.png?raw=true" width="15%"></img>阿里云免费大模型百炼api接口使用方法 
 
 [English](./READMEEG.md) - 中文
 
